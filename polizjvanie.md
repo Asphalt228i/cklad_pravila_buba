@@ -10,6 +10,10 @@ _____________
 
 3. Нумерация ячеек идёт от сундука не шитая модули шалкеров(рис.2)
 
+рис.1
+![2024-01-17_19 16 28](https://github.com/Asphalt228i/cklad_pravila_buba-/assets/98819672/dd8c5d38-242c-41b3-9812-c1c344436d5b)
+
+
 рис.2 
 ![2024-01-17_18 52 29](https://github.com/Asphalt228i/cklad_pravila_buba-/assets/98819672/f58690f4-b778-4402-adc8-a211ca62f2f3)    
 _________
