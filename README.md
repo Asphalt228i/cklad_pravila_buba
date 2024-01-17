@@ -22,4 +22,4 @@ ___________
 _4. Пункт правил 4, 20 стаков аб_
 
 ____________
-[Гайд]()
+[Гайд](https://github.com/Asphalt228i/cklad_pravila_buba/blob/main/polizjvanie.md)
